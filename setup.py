@@ -34,7 +34,7 @@ setup(
     keywords='',
     author='Andreas Kaiser',
     author_email='disko@binary-punks.com',
-    url='https://github.com/disko/js.jquery_maskmoney',
+    url='https://github.com/Kotti/js.jquery_maskmoney',
     license='BSD',
     packages=find_packages(),
     namespace_packages=['js'],
